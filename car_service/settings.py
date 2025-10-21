@@ -77,7 +77,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'car_service_network',
         'USER': 'root',  # або твій користувач MySQL
-        'PASSWORD': '19012007Uuu!',
+        'PASSWORD': '1111',
         'HOST': 'localhost',  # або IP сервера
         'PORT': '3306',  # стандартний порт
         'OPTIONS': {
